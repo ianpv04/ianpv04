@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ian Paulino Vélez.
-- 🌱 B.S. in Economics and currently M.S. in Data Science student at Fordham University.
+- 🌱 Economist and Data Scientist.
 - 👀 Wide range of interests, including: Statistics, Machine Learning, Research, Econometrics, Philosophy...
 - 📫 Email: ianpvelez@gmail.com.
 - 📞 Phone: +1 (929) 459-3646.
